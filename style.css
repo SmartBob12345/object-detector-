@@ -1,0 +1,20 @@
+body{
+    background-image: url("bakcgroundimg.avif");
+    background-size: cover;
+}
+#header{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 0;
+}
+a{
+    color: azure;
+    font-size: 19px;
+    margin-top: 20;
+    margin-bottom: 20;
+}
+#back{
+    color: black;
+    float: right;
+    margin-left: 20px;
+}
